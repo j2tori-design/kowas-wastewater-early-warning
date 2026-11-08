@@ -1,0 +1,115 @@
+{
+ "final": 0.29185405053025937,
+ "folds": [
+  {
+   "fold_id": "2024-Q2",
+   "n_reg": 221,
+   "n_cls": 221,
+   "smape": 57.47481402087294,
+   "smape_baseline": 67.59951183505632,
+   "macro_f1": 0.5580901856763926,
+   "score": 0.31310090500088333,
+   "status": "ok",
+   "total_seconds": 1.28
+  },
+  {
+   "fold_id": "2024-Q3",
+   "n_reg": 219,
+   "n_cls": 219,
+   "smape": 77.98908060264193,
+   "smape_baseline": 90.85837756731684,
+   "macro_f1": 0.7389422172030868,
+   "score": 0.380561655325774,
+   "status": "ok",
+   "total_seconds": 1.41
+  },
+  {
+   "fold_id": "2024-Q4",
+   "n_reg": 201,
+   "n_cls": 203,
+   "smape": 59.715781126965865,
+   "smape_baseline": 72.76431391434717,
+   "macro_f1": 0.5485347985347986,
+   "score": 0.32700951471692263,
+   "status": "ok",
+   "total_seconds": 1.78
+  },
+  {
+   "fold_id": "2025-Q1",
+   "n_reg": 156,
+   "n_cls": 202,
+   "smape": 62.68329369544707,
+   "smape_baseline": 60.23734857882244,
+   "macro_f1": 0.5783709451661223,
+   "score": 0.20698530258920714,
+   "status": "ok",
+   "total_seconds": 1.72
+  },
+  {
+   "fold_id": "2025-Q2",
+   "n_reg": 221,
+   "n_cls": 221,
+   "smape": 54.33116890711327,
+   "smape_baseline": 56.72046673222022,
+   "macro_f1": 0.6003616636528029,
+   "score": 0.2654191171300778,
+   "status": "ok",
+   "total_seconds": 1.95
+  },
+  {
+   "fold_id": "2025-Q3",
+   "n_reg": 221,
+   "n_cls": 221,
+   "smape": 59.325224840150774,
+   "smape_baseline": 58.347254871507225,
+   "macro_f1": 0.6102132895816244,
+   "score": 0.2340285962409853,
+   "status": "ok",
+   "total_seconds": 1.86
+  },
+  {
+   "fold_id": "2025-Q4",
+   "n_reg": 203,
+   "n_cls": 203,
+   "smape": 56.7254367532058,
+   "smape_baseline": 68.99947942023306,
+   "macro_f1": 0.5445512820512821,
+   "score": 0.32455212387172394,
+   "status": "ok",
+   "total_seconds": 1.92
+  },
+  {
+   "fold_id": "2026-Q1",
+   "n_reg": 171,
+   "n_cls": 204,
+   "smape": 52.50026302878652,
+   "smape_baseline": 56.41740315519254,
+   "macro_f1": 0.5516483516483517,
+   "score": 0.26231818960314035,
+   "status": "ok",
+   "total_seconds": 1.92
+  },
+  {
+   "fold_id": "2026-Q2",
+   "n_reg": 205,
+   "n_cls": 205,
+   "smape": 50.82856681678244,
+   "smape_baseline": 57.62010683557778,
+   "macro_f1": 0.6272727272727272,
+   "score": 0.32162961253021927,
+   "status": "ok",
+   "total_seconds": 2.02
+  },
+  {
+   "fold_id": "2026-Q3",
+   "n_reg": 163,
+   "n_cls": 160,
+   "smape": 64.24506990077549,
+   "smape_baseline": 71.30926546740483,
+   "macro_f1": 0.558742415885273,
+   "score": 0.2829354882936601,
+   "status": "ok",
+   "total_seconds": 1.97
+  }
+ ]
+}

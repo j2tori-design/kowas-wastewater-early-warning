@@ -1,0 +1,8 @@
+{
+ "n": 2844,
+ "beta_dilution": -0.0009853201254880397,
+ "r_rain_vs_deviation": -0.002822578348009273,
+ "r_rain_vs_next2wk_change": 0.013490750326843964,
+ "rain_sd": 1.6461013443421024,
+ "implied_effect_log10_per_sd": -0.0016219367831731913
+}

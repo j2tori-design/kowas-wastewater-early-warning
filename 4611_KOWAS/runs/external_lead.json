@@ -1,0 +1,61 @@
+{
+ "lag_corr": {
+  "0": 0.361,
+  "1": 0.294,
+  "2": 0.213,
+  "3": 0.233,
+  "4": 0.195
+ },
+ "note": "lag = 원점 주보다 몇 주 앞선 미국 값까지 쓰는지(발표 지연)",
+ "r2_own": 0.001,
+ "r2_own_us": 0.1,
+ "n_weeks": 165,
+ "model_error_corr_lag1": 0.417,
+ "backtest": {
+  "submitted": {
+   "final": 0.3005,
+   "delta": 0.0,
+   "min_window": 0.1952
+  },
+  "us_lag1": {
+   "final": 0.3011,
+   "delta": 0.0006,
+   "min_window": 0.1806
+  },
+  "us_lag2": {
+   "final": 0.2967,
+   "delta": -0.0038,
+   "min_window": 0.1952
+  },
+  "us_lag1_alert": {
+   "final": 0.3039,
+   "delta": 0.0034,
+   "min_window": 0.1799
+  },
+  "us_alert_only": {
+   "final": 0.2995,
+   "delta": -0.001,
+   "min_window": 0.2036
+  },
+  "us_ols": {
+   "final": 0.3019,
+   "delta": 0.0014,
+   "min_window": 0.1918
+  },
+  "us_ols_lag2": {
+   "final": 0.2986,
+   "delta": -0.0019,
+   "min_window": 0.178
+  },
+  "us_ols_alert": {
+   "final": 0.3069,
+   "delta": 0.0064,
+   "min_window": 0.189
+  },
+  "us_ols_alert_lag2": {
+   "final": 0.2995,
+   "delta": -0.001,
+   "min_window": 0.1661
+  }
+ }
+}
